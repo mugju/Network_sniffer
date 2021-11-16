@@ -21,10 +21,14 @@ ICMP,HTTP,DNS sniffing
 
 ![image](https://user-images.githubusercontent.com/25499386/141921814-f38a978c-db02-499d-b6f6-4849b7b8b7b3.png)
 
-![image](https://user-images.githubusercontent.com/25499386/141921827-6ae92421-9895-4ff9-9419-be333616cfe9.png)
+![image](https://user-images.githubusercontent.com/25499386/141922102-83547b42-32d3-46c9-ad79-ce5753690ab7.png)
+
+
 
 <h2>ICMP sniffing</h2>
 
 ![image](https://user-images.githubusercontent.com/25499386/141921931-f3b2b279-e806-4b0e-a276-14055eeeebc2.png)
 
-![image](https://user-images.githubusercontent.com/25499386/141921951-621dd298-a81f-4b61-891b-3eccf025dd23.png)
+![image](https://user-images.githubusercontent.com/25499386/141922074-57965192-a232-47d0-870b-52ccb1e71433.png)
+
+
