@@ -13,6 +13,7 @@ ICMP,HTTP,DNS sniffing
 ##4. 결과를 이어서 보고싶으면 하단에 이어붙이기 체크박스를 클릭하고 스니핑 진행.
 
 <h2>HTTP sniffing</h2>
+
 ![image](https://user-images.githubusercontent.com/25499386/141921503-69e02a8f-0bbb-4d62-a300-010ca80676f8.png)
 
 
